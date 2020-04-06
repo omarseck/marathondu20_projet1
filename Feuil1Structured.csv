@@ -1,105 +1,105 @@
-SECTEUR,SOUS-SECTEUR,CIBLE,NOM,LIEN,ADRESSE
-0,SANITAIRE,,Enfant,CAMSP, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/camsp.html?no_cache=1&cHash=9c7328e9d844bb3f229b44e5f83cd4a3,
-1,SANITAIRE,,Enfant,CMPP, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/cmpp.html?no_cache=1&cHash=eb5fa0e196015164a6f0ae6929647ea0,
-2,ÉTABLISSEMENTS,,Enfant,IME,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ime.html?no_cache=1&cHash=75d0a2e05a005941293227e69c1dd062,
-3,ÉTABLISSEMENTS,,Enfant,ITEP, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/itep.html?no_cache=1&cHash=bda77cb9975c3222688e9dbd72c458c8,
-4,ÉTABLISSEMENTS,,Enfant,AUTRES,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-etablissements-medico-sociaux.html?no_cache=1&cHash=e228df410c50023cf6ace7ce1a55a460,
-5,ÉTABLISSEMENTS,,Enfant,SESSAD,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/sessad.html?no_cache=1&cHash=515a17a81b41a3e8ea091194246c2e74,
-6,ULIS,,Enfant,PRIMAIRE, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-ecole.html?no_cache=1&cHash=c033aefd173c3b893d55233e5a3bc300,
-7,ULIS,,Enfant,COLLÈGE,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-college.html?no_cache=1&cHash=917c3b8285a47ba1f9679414236f1cdf,
-8,ULIS,,Enfant,LYCÉE,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-lycee.html?no_cache=1&cHash=bcef58263bdedb6fdfffed3e30e248b5,
-9,ACCUEILS ALTERNATIFS,,Enfant,ÉCOLE & SESSAD PARENTS-THÈSE,https://www.halte-pouce.fr/ressources/lecole-et-sessad-parents-these-a-jacou-34-specialisee-dans-les-ted,
-10,ACCUEILS ALTERNATIFS,,Enfant,AVENIR DES POSSIBLES,https://www.halte-pouce.fr/ressources/association-avenir-des-possibles-a-lunel-pour-les-autistes-par-les-autistes,
-11,ACCUEILS ALTERNATIFS,,Enfant,LES ATELIERS DE BENTENAC,https://www.halte-pouce.fr/ressources/Les-Ateliers-de-Bentenac,
-12,ACCUEILS ALTERNATIFS,,Enfant,ÉCOLE AMÉTHYSTE,https://www.halte-pouce.fr/ressources/lecole-amethyste-une-ecole-privee-atypique-a-palavas-les-flots,
-13,ACCUEILS ALTERNATIFS,,Enfant,LES ENFANTS D'HÉLÈNE,https://www.halte-pouce.fr/actualites/message-du-cesu-appel-a-la-solidarite-des-particuliers-employeurs,
-14,ACCUEILS ALTERNATIFS,,Enfant,COLOC'AUTISME,https://www.halte-pouce.fr/ressources/L-association-Col-Oc-Autisme,
-15,ÉTABLISSEMENTS,,Adulte,MAS, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/mas.html?no_cache=1&cHash=738fc36d7f0a887a9cd9a107052532f1,
-16,ÉTABLISSEMENTS,,Adulte,FAM,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/fam.html?no_cache=1&cHash=df567f28c547e67c8ef75315fffd1ed8,
-17,ÉTABLISSEMENTS,,Adulte,FOYER DE VIE,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/foyers-de-vie.html?no_cache=1&cHash=b3bea455a3f0ad14d2dc4c275c3b37df,
-18,ÉTABLISSEMENTS,,Adulte,ACCUEIL DE JOUR,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/accueils-de-jour.html?no_cache=1&cHash=0a9fca601856d9bf38810aef6dbc7fb9,
-19,ÉTABLISSEMENTS,,Adulte,FOYER D'HÉBERGEMENT,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/foyers-dhebergement.html?no_cache=1&cHash=57ab7e71459ad328e37614534aa42005,
-20,INSERTION PROFESSIONNELLE,,Adulte,ESAT,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/esat.html?no_cache=1&cHash=4169afd82ed38a782a8975702f9139ca,
-21,INSERTION PROFESSIONNELLE,,Adulte,SAESAT,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/sections-annexes-esat.html?no_cache=1&cHash=b4e9c0d94c08657d0bfbf5c2a5be57a8,
-22,INSERTION PROFESSIONNELLE,,Adulte,ENTREPRISES ADAPTÉES,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/entreprises-adaptees.html?no_cache=1&cHash=8ed8c04e18806d91821d57e019fecff5,
-23,INSERTION PROFESSIONNELLE,,Adulte,AUTRES, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525,
-24,INSERTION PROFESSIONNELLE,,Adulte,AUTRES,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525,
-25,INSERTION PROFESSIONNELLE,,Adulte,AUTRES,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525,
-26,SERVICES D'ACCOMPAGNEMENT,,Adulte,SAVS,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/savs.html?no_cache=1&cHash=38d030b85ffa543974db0bcfdc8a475d,
-27,SERVICES D'ACCOMPAGNEMENT,,Adulte,SAMSAH,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/samsah.html?no_cache=1&cHash=234edd22cd262be3b43421d00a100b0e,
-28,SERVICES D'ACCOMPAGNEMENT,,Adulte,GEM,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/gem.html?no_cache=1&cHash=8a7c1c2bd84a9cee9b284aa640fb811d,
-29,CULTURE,,,MAISONS POUR TOUS ,https://www.montpellier.fr/3791-maisons-pour-tous.htm,
-30,ACTIVITÉS EN MILIEU ORDINAIRE,,,ACTIVITÉS  INCLUSION LOISIRS  ,https://www.halte-pouce.fr/ressources/profitez-davantage-des-activites-en-milieu-ordinaire,
-31,SECTEUR SOCIAL,,,ANTENNES DE LA SOLIDARITÉ,https://www.halte-pouce.fr/ressources/les-antennes-de-la-solidarite-pres-de-chez-vous,
-32,ASSOCIATIONS,FÉDÉRATION,,COMITÉ DE LIAISON,https://clcph.fr/category/association/,
-33,ASSOCIATIONS,DANSE,,MANQUE PAS D'AIR,https://www.halte-pouce.fr/ressources/lassociation-manque-pas-dair-accueille-la-difference,
-34,ASSOCIATIONS,NATURE,,CENTRE DE PLEINE NATURE,https://www.halte-pouce.fr/ressources/centre-de-pleine-nature-station-cevennes,
-35,ASSOCIATIONS,ESPACE JEUX,,SENSAS,https://www.halte-pouce.fr/ressources/sensas-un-lieu-unique-pour-mettre-vos-5-sens-a-lepreuve-en-famille-et-soutenir-halte-pouce,
-36,ASSOCIATIONS,AUTISME ASPERGER,,CAFÉ ATYPIE,https://www.halte-pouce.fr/ressources/un-cafe-asperger-un-mardi-sur-deux-a-montpellier,
-37,ASSOCIATIONS,SURDITÉ,,SURDI 34,https://www.surdi34.fr/,
-38,ASSOCIATIONS,NATATION,,SWIMMING COOL,https://www.halte-pouce.fr/ressources/Piscine-et-handicap-a-Montpellier,
-39,ASSOCIATIONS,RANDONNÉES,,M.O.H.I.C.A.N.S,https://www.halte-pouce.fr/ressources/Association-Mohicans,
-40,ASSOCIATIONS,LOISIRS ,,AU PAYS DES CARRIOLES,https://www.halte-pouce.fr/ressources/au-pays-des-carrioles-un-parc-de-loisirs-insolite-et-accessible-a-la-boissiere,
-41,ASSOCIATIONS,LOISIRS - RENCONTRE,,UN SOURIRE EN CHANTANT,https://www.halte-pouce.fr/ressources/lassociation-un-sourire-en-chantant,
-42,ASSOCIATIONS,ATELIERS,,SAUDADE,https://www.halte-pouce.fr/ressources/association-saudade-des-ateliers-ouverts-a-toutes-les-differences,
-43,ASSOCIATIONS,ATELIERS,,ATELIERS ADAPTÉS,https://www.halte-pouce.fr/ressources/ateliers-adaptes-tous-handicaps-a-teyran,
-44,ASSOCIATIONS,SPORTS,,HANDISPORT,https://www.halte-pouce.fr/ressources/montpellier-club-handisport-mch-34-tous-faits-pour-le-sport,
-45,ASSOCIATIONS,ÂNES,,HANDI-ÂNE,https://www.halte-pouce.fr/ressources/balades-adaptees-a-dos-danes-association-handiane,
-46,ASSOCIATIONS,PARENTALITÉ,,PARENTALITÉ 34,https://www.halte-pouce.fr/ressources/parentalite-34,
-47,ASSOCIATIONS,LOISIRS - RENCONTRES,,YARRIVAREM,https://www.halte-pouce.fr/ressources/association-yarrivarem-34,
-48,ASSOCIATIONS,DANSE,,MOZAÏK,https://www.halte-pouce.fr/ressources/association-mozaik-danse,
-49,ASSOCIATIONS,DYS,,APEDYS,https://www.halte-pouce.fr/ressources/association-apedys-herault-association-regionale-de-parents-denfants-et-dadultes-dyslexiques,
-50,ASSOCIATIONS,AUTISME,,PIC AUTISME,https://www.halte-pouce.fr/ressources/lassociation-pic-autisme-trisomie-dans-lherault,
-51,ASSOCIATIONS,LOISIRS - RANDONNÉES,,CARAVANE,https://www.halte-pouce.fr/ressources/association-caravane-34,
-52,ASSOCIATIONS,AUTISME,,OZ,https://www.halte-pouce.fr/ressources/L-association-OZ-a-Sete,
-53,ASSOCIATIONS,ÂNES,,BEAU NEZ D'ÂNE,https://www.halte-pouce.fr/ressources/association-beau-nez-dAne,
-54,ASSOCIATIONS,ÂNES,,TIT'ÂNE,https://www.halte-pouce.fr/ressources/Equitherapie-a-gignac,
-55,ASSOCIATIONS,CIRQUE+1:1048576,,ZÉPÉTRA,https://www.halte-pouce.fr/ressources/des-cours-adaptes-de-cirque-avec-zepetra-a-castelnau-le-lez,
-56,ASSOCIATIONS,MUSIQUE,,MUSIKA,https://www.halte-pouce.fr/ressources/handi-musique-sur-montpellier-avec-musika,
-57,ASSOCIATIONS,MUSIQUE,,MUSIQUE & HANDICAP,https://www.halte-pouce.fr/ressources/association-musique-et-handicaps-mediterranee-a-montpellier,
-58,ASSOCIATIONS,ÉQUITHÉRAPIE,,LES COLOMBIERS,https://www.halte-pouce.fr/ressources/equitherapie-mediation-animale-a-gignac-34,
-59,ASSOCIATIONS,DYS,,DMF,https://www.halte-pouce.fr/ressources/association-dyspraxique-mais-fantastique-34-dmf34,
-60,ASSOCIATIONS,ÉQUITHÉRAPIE,,POIL DE PAROLE,https://www.halte-pouce.fr/ressources/POIL-DE-PAROLE-Mediation-animale,
-61,ASSOCIATIONS,INSERTION JEUNES,,CAP 'A CITÉ,https://www.halte-pouce.fr/ressources/Association-Cap-A-Cites-a,
-62,ASSOCIATIONS,RANDONNÉES,,HANDICAP ÉVASION,https://www.halte-pouce.fr/ressources/Handicap-evasion-La-randonnee-pour,
-63,GÎITES ADAPTÉS,,,ÉVEIL & PARTAGE,https://www.halte-pouce.fr/ressources/Eveil-et-partage-gites-de-vacances-pour-sejours-adaptes,
-64,GÎITES ADAPTÉS,,,JFJV,https://www.halte-pouce.fr/ressources/vacances-adaptees-avec-lassociation-je-fais-ce-que-je-veux-jfjv,
-65,GÎITES ADAPTÉS,,,REGAINS,https://www.halte-pouce.fr/ressources/association-regains-sejours-we-pour-adulte-handicapes-mentaux,
-66,SANTÉ,CONSULTATIONS,,HANDICONSULT 34,https://www.halte-pouce.fr/ressources/acces-aux-soins-des-personnes-en-situation-de-handicap-handiconsult34,
-67,SANTÉ,ÉQUIPE RELAIS HANDICAPS RARES,,ERHR,https://www.halte-pouce.fr/ressources/Equipe-relais-handicaps-rares,
-68,SANTÉ,RÉSEAU MALADIES RARES,,VADLR,https://www.halte-pouce.fr/ressources/RESEAU-MALADIES-RARES-MEDITERRANEE,
-69,SANTÉ,CENTRE RESSOURCE AUTISME,,CRA,http://www.autisme-ressources-lr.fr/,
-70,SANTÉ,SEXUALITÉ,,APARSA,https://www.halte-pouce.fr/ressources/sexualite-handicap-association-aparsa,
-71,SANTÉ,MATÉRIELS ADAPTÉS,,L'ÉTAPE,https://www.halte-pouce.fr/ressources/letape-aides-techniques-et-perte-dautonomie,
-72,SANTÉ,AIDANTS,,LA PASQUIÈRE,https://www.halte-pouce.fr/ressources/une-maison-daccueil-des-familles-de-malade-la-pasquiere,
-73,SANTÉ,AIDANTS,,CLOS DE LA FONTAINE,https://www.halte-pouce.fr/ressources/le-clos-de-la-fontaine-aide-aux-aidants,
-74,SANTÉ,CONSULTATION PSY - LSF,,GENEVIÈVE SANCHO,https://www.halte-pouce.fr/ressources/psychologue-clinicienne-et-lsf-genevieve-sancho,
-75,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,BAILLARGUES (34670) : CCAS BAILLARGUES
-76,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,BESSAN (34550) : CCAS BESSAN
-77,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,BEZIERS (34500) : CCAS DE BEZIERS
-78,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,CAPESTANG (34310) : CCAS DE CAPESTANG
-79,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,CASTELNAU LE LEZ (34170) : CCAS DE CASTELNAU-LE-LEZ
-80,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,CLERMONT L HERAULT (34800) : CCAS CLERMONT L'HERAULT
-81,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,FRONTIGNAN (34110) : CCAS DE FRONTIGNAN
-82,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,GIGNAC (34150) : CCAS GIGNAC
-83,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,LAURENS (34480) : CCAS DE LAURENS
-84,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,LE POUGET (34230) : CCAS LE POUGET
-85,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,LODEVE (34700) : CCAS DE LODEVE
-86,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,MARAUSSAN (34370) : CCAS DE MARAUSSAN
-87,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,MEZE (34140) : CCAS MEZE
-88,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,MONTAGNAC (34530) : CCAS MONTAGNAC
-89,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,MONTPELLIER (34000) : CCAS MONTPELLIER
-90,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,MURVIEL LES BEZIERS (34490) : CCAS MURVIEL LES BEZIERS
-91,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,NEZIGNAN L EVEQUE (34120) : CCAS NEZIGNAN L'EVEQUE
-92,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,PAULHAN (34230) : CCAS PAULHAN
-93,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,PEZENAS (34120) : CCAS PEZENAS
-94,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,SAINT BAUZILLE DE LA SYLVE (34230) : CCAS ST BAUZILLE DE LA SYLVE
-95,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,SAINT PARGOIRE (34230) : CCAS SAINT PARGOIRE
-96,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,SAINT THIBERY (34630) : CCAS SAINT THIBERY
-97,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,SERVIAN (34290) : CCAS SERVIAN
-98,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,SETE (34200) : CCAS SETE
-99,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,TEYRAN (34820) : CCAS TEYRAN
-100,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,THEZAN LES BEZIERS (34490) : CCAS THEZAN LES BEZIERS
-101,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,VENDRES (34350) : CCAS VENDRES
-102,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,VILLENEUVE LES BEZIERS (34420) : CCAS DE VILLENEUVE LES BEZIERS
-103,CENTRES COMMUNAUX D'ACTION SOCIALE,,,CCAS HÉRAULT,,VILLENEUVE LES MAGUELONE (34750) : CCAS VILLENEUVE LES MAGUELONNE
+SECTEUR,SOUS-SECTEUR,CIBLE,SOUS CIBLE,NOM,ADRESSE,MAIL,TELEPHONE,LIEN
+0,SANITAIRE,,Enfant,,CAMSP,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/camsp.html?no_cache=1&cHash=9c7328e9d844bb3f229b44e5f83cd4a3
+1,SANITAIRE,,Enfant,,CMPP,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/cmpp.html?no_cache=1&cHash=eb5fa0e196015164a6f0ae6929647ea0
+2,ÉTABLISSEMENTS,,Enfant,,IME,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ime.html?no_cache=1&cHash=75d0a2e05a005941293227e69c1dd062
+3,ÉTABLISSEMENTS,,Enfant,,ITEP,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/itep.html?no_cache=1&cHash=bda77cb9975c3222688e9dbd72c458c8
+4,ÉTABLISSEMENTS,,Enfant,,AUTRES,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-etablissements-medico-sociaux.html?no_cache=1&cHash=e228df410c50023cf6ace7ce1a55a460
+5,ÉTABLISSEMENTS,,Enfant,,SESSAD,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/sessad.html?no_cache=1&cHash=515a17a81b41a3e8ea091194246c2e74
+6,ULIS,,Enfant,,PRIMAIRE,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-ecole.html?no_cache=1&cHash=c033aefd173c3b893d55233e5a3bc300
+7,ULIS,,Enfant,,COLLÈGE,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-college.html?no_cache=1&cHash=917c3b8285a47ba1f9679414236f1cdf
+8,ULIS,,Enfant,,LYCÉE,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-lycee.html?no_cache=1&cHash=bcef58263bdedb6fdfffed3e30e248b5
+9,ACCUEILS ALTERNATIFS,,Enfant,,ÉCOLE & SESSAD PARENTS-THÈSE,,,,https://www.halte-pouce.fr/ressources/lecole-et-sessad-parents-these-a-jacou-34-specialisee-dans-les-ted
+10,ACCUEILS ALTERNATIFS,,Enfant,,AVENIR DES POSSIBLES,,,,https://www.halte-pouce.fr/ressources/association-avenir-des-possibles-a-lunel-pour-les-autistes-par-les-autistes
+11,ACCUEILS ALTERNATIFS,,Enfant,,LES ATELIERS DE BENTENAC,,,,https://www.halte-pouce.fr/ressources/Les-Ateliers-de-Bentenac
+12,ACCUEILS ALTERNATIFS,,Enfant,,ÉCOLE AMÉTHYSTE,,,,https://www.halte-pouce.fr/ressources/lecole-amethyste-une-ecole-privee-atypique-a-palavas-les-flots
+13,ACCUEILS ALTERNATIFS,,Enfant,,LES ENFANTS D'HÉLÈNE,,,,https://www.halte-pouce.fr/actualites/message-du-cesu-appel-a-la-solidarite-des-particuliers-employeurs
+14,ACCUEILS ALTERNATIFS,,Enfant,,COLOC'AUTISME,,,,https://www.halte-pouce.fr/ressources/L-association-Col-Oc-Autisme
+15,ÉTABLISSEMENTS,,Adulte,,MAS,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/mas.html?no_cache=1&cHash=738fc36d7f0a887a9cd9a107052532f1
+16,ÉTABLISSEMENTS,,Adulte,,FAM,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/fam.html?no_cache=1&cHash=df567f28c547e67c8ef75315fffd1ed8
+17,ÉTABLISSEMENTS,,Adulte,,FOYER DE VIE,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/foyers-de-vie.html?no_cache=1&cHash=b3bea455a3f0ad14d2dc4c275c3b37df
+18,ÉTABLISSEMENTS,,Adulte,,ACCUEIL DE JOUR,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/accueils-de-jour.html?no_cache=1&cHash=0a9fca601856d9bf38810aef6dbc7fb9
+19,ÉTABLISSEMENTS,,Adulte,,FOYER D'HÉBERGEMENT,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/foyers-dhebergement.html?no_cache=1&cHash=57ab7e71459ad328e37614534aa42005
+20,INSERTION PROFESSIONNELLE,,Adulte,,ESAT,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/esat.html?no_cache=1&cHash=4169afd82ed38a782a8975702f9139ca
+21,INSERTION PROFESSIONNELLE,,Adulte,,SAESAT,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/sections-annexes-esat.html?no_cache=1&cHash=b4e9c0d94c08657d0bfbf5c2a5be57a8
+22,INSERTION PROFESSIONNELLE,,Adulte,,ENTREPRISES ADAPTÉES,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/entreprises-adaptees.html?no_cache=1&cHash=8ed8c04e18806d91821d57e019fecff5
+23,INSERTION PROFESSIONNELLE,,Adulte,,AUTRES,,,, http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525
+24,INSERTION PROFESSIONNELLE,,Adulte,,AUTRES,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525
+25,INSERTION PROFESSIONNELLE,,Adulte,,AUTRES,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/autres-structures-professionnelles.html?no_cache=1&cHash=0f2b6bb31747a250eea5858361ceb525
+26,SERVICES D'ACCOMPAGNEMENT,,Adulte,,SAVS,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/savs.html?no_cache=1&cHash=38d030b85ffa543974db0bcfdc8a475d
+27,SERVICES D'ACCOMPAGNEMENT,,Adulte,,SAMSAH,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/samsah.html?no_cache=1&cHash=234edd22cd262be3b43421d00a100b0e
+28,SERVICES D'ACCOMPAGNEMENT,,Adulte,,GEM,,,,http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/gem.html?no_cache=1&cHash=8a7c1c2bd84a9cee9b284aa640fb811d
+29,CULTURE,,,,MAISONS POUR TOUS ,,,,https://www.montpellier.fr/3791-maisons-pour-tous.htm
+30,ACTIVITÉS EN MILIEU ORDINAIRE,,,,ACTIVITÉS  INCLUSION LOISIRS  ,,,,https://www.halte-pouce.fr/ressources/profitez-davantage-des-activites-en-milieu-ordinaire
+31,SECTEUR SOCIAL,,,,ANTENNES DE LA SOLIDARITÉ,,,,https://www.halte-pouce.fr/ressources/les-antennes-de-la-solidarite-pres-de-chez-vous
+32,ASSOCIATIONS,FÉDÉRATION,,,COMITÉ DE LIAISON,,,,https://clcph.fr/category/association/
+33,ASSOCIATIONS,DANSE,,,MANQUE PAS D'AIR,,,,https://www.halte-pouce.fr/ressources/lassociation-manque-pas-dair-accueille-la-difference
+34,ASSOCIATIONS,NATURE,,,CENTRE DE PLEINE NATURE,,,,https://www.halte-pouce.fr/ressources/centre-de-pleine-nature-station-cevennes
+35,ASSOCIATIONS,ESPACE JEUX,,,SENSAS,,,,https://www.halte-pouce.fr/ressources/sensas-un-lieu-unique-pour-mettre-vos-5-sens-a-lepreuve-en-famille-et-soutenir-halte-pouce
+36,ASSOCIATIONS,AUTISME ASPERGER,,,CAFÉ ATYPIE,,,,https://www.halte-pouce.fr/ressources/un-cafe-asperger-un-mardi-sur-deux-a-montpellier
+37,ASSOCIATIONS,SURDITÉ,,,SURDI 34,,,,https://www.surdi34.fr/
+38,ASSOCIATIONS,NATATION,,,SWIMMING COOL,,,,https://www.halte-pouce.fr/ressources/Piscine-et-handicap-a-Montpellier
+39,ASSOCIATIONS,RANDONNÉES,,,M.O.H.I.C.A.N.S,,,,https://www.halte-pouce.fr/ressources/Association-Mohicans
+40,ASSOCIATIONS,LOISIRS ,,,AU PAYS DES CARRIOLES,,,,https://www.halte-pouce.fr/ressources/au-pays-des-carrioles-un-parc-de-loisirs-insolite-et-accessible-a-la-boissiere
+41,ASSOCIATIONS,LOISIRS - RENCONTRE,,,UN SOURIRE EN CHANTANT,,,,https://www.halte-pouce.fr/ressources/lassociation-un-sourire-en-chantant
+42,ASSOCIATIONS,ATELIERS,,,SAUDADE,,,,https://www.halte-pouce.fr/ressources/association-saudade-des-ateliers-ouverts-a-toutes-les-differences
+43,ASSOCIATIONS,ATELIERS,,,ATELIERS ADAPTÉS,,,,https://www.halte-pouce.fr/ressources/ateliers-adaptes-tous-handicaps-a-teyran
+44,ASSOCIATIONS,SPORTS,,,HANDISPORT,,,,https://www.halte-pouce.fr/ressources/montpellier-club-handisport-mch-34-tous-faits-pour-le-sport
+45,ASSOCIATIONS,ÂNES,,,HANDI-ÂNE,,,,https://www.halte-pouce.fr/ressources/balades-adaptees-a-dos-danes-association-handiane
+46,ASSOCIATIONS,PARENTALITÉ,,,PARENTALITÉ 34,,,,https://www.halte-pouce.fr/ressources/parentalite-34
+47,ASSOCIATIONS,LOISIRS - RENCONTRES,,,YARRIVAREM,,,,https://www.halte-pouce.fr/ressources/association-yarrivarem-34
+48,ASSOCIATIONS,DANSE,,,MOZAÏK,,,,https://www.halte-pouce.fr/ressources/association-mozaik-danse
+49,ASSOCIATIONS,DYS,,,APEDYS,,,,https://www.halte-pouce.fr/ressources/association-apedys-herault-association-regionale-de-parents-denfants-et-dadultes-dyslexiques
+50,ASSOCIATIONS,AUTISME,,,PIC AUTISME,,,,https://www.halte-pouce.fr/ressources/lassociation-pic-autisme-trisomie-dans-lherault
+51,ASSOCIATIONS,LOISIRS - RANDONNÉES,,,CARAVANE,,,,https://www.halte-pouce.fr/ressources/association-caravane-34
+52,ASSOCIATIONS,AUTISME,,,OZ,,,,https://www.halte-pouce.fr/ressources/L-association-OZ-a-Sete
+53,ASSOCIATIONS,ÂNES,,,BEAU NEZ D'ÂNE,,,,https://www.halte-pouce.fr/ressources/association-beau-nez-dAne
+54,ASSOCIATIONS,ÂNES,,,TIT'ÂNE,,,,https://www.halte-pouce.fr/ressources/Equitherapie-a-gignac
+55,ASSOCIATIONS,CIRQUE+1:1048576,,,ZÉPÉTRA,,,,https://www.halte-pouce.fr/ressources/des-cours-adaptes-de-cirque-avec-zepetra-a-castelnau-le-lez
+56,ASSOCIATIONS,MUSIQUE,,,MUSIKA,,,,https://www.halte-pouce.fr/ressources/handi-musique-sur-montpellier-avec-musika
+57,ASSOCIATIONS,MUSIQUE,,,MUSIQUE & HANDICAP,,,,https://www.halte-pouce.fr/ressources/association-musique-et-handicaps-mediterranee-a-montpellier
+58,ASSOCIATIONS,ÉQUITHÉRAPIE,,,LES COLOMBIERS,,,,https://www.halte-pouce.fr/ressources/equitherapie-mediation-animale-a-gignac-34
+59,ASSOCIATIONS,DYS,,,DMF,,,,https://www.halte-pouce.fr/ressources/association-dyspraxique-mais-fantastique-34-dmf34
+60,ASSOCIATIONS,ÉQUITHÉRAPIE,,,POIL DE PAROLE,,,,https://www.halte-pouce.fr/ressources/POIL-DE-PAROLE-Mediation-animale
+61,ASSOCIATIONS,INSERTION JEUNES,,,CAP 'A CITÉ,,,,https://www.halte-pouce.fr/ressources/Association-Cap-A-Cites-a
+62,ASSOCIATIONS,RANDONNÉES,,,HANDICAP ÉVASION,,,,https://www.halte-pouce.fr/ressources/Handicap-evasion-La-randonnee-pour
+63,GÎITES ADAPTÉS,,,,ÉVEIL & PARTAGE,,,,https://www.halte-pouce.fr/ressources/Eveil-et-partage-gites-de-vacances-pour-sejours-adaptes
+64,GÎITES ADAPTÉS,,,,JFJV,,,,https://www.halte-pouce.fr/ressources/vacances-adaptees-avec-lassociation-je-fais-ce-que-je-veux-jfjv
+65,GÎITES ADAPTÉS,,,,REGAINS,,,,https://www.halte-pouce.fr/ressources/association-regains-sejours-we-pour-adulte-handicapes-mentaux
+66,SANTÉ,CONSULTATIONS,,,HANDICONSULT 34,,,,https://www.halte-pouce.fr/ressources/acces-aux-soins-des-personnes-en-situation-de-handicap-handiconsult34
+67,SANTÉ,ÉQUIPE RELAIS HANDICAPS RARES,,,ERHR,,,,https://www.halte-pouce.fr/ressources/Equipe-relais-handicaps-rares
+68,SANTÉ,RÉSEAU MALADIES RARES,,,VADLR,,,,https://www.halte-pouce.fr/ressources/RESEAU-MALADIES-RARES-MEDITERRANEE
+69,SANTÉ,CENTRE RESSOURCE AUTISME,,,CRA,,,,http://www.autisme-ressources-lr.fr/
+70,SANTÉ,SEXUALITÉ,,,APARSA,,,,https://www.halte-pouce.fr/ressources/sexualite-handicap-association-aparsa
+71,SANTÉ,MATÉRIELS ADAPTÉS,,,L'ÉTAPE,,,,https://www.halte-pouce.fr/ressources/letape-aides-techniques-et-perte-dautonomie
+72,SANTÉ,AIDANTS,,,LA PASQUIÈRE,,,,https://www.halte-pouce.fr/ressources/une-maison-daccueil-des-familles-de-malade-la-pasquiere
+73,SANTÉ,AIDANTS,,,CLOS DE LA FONTAINE,,,,https://www.halte-pouce.fr/ressources/le-clos-de-la-fontaine-aide-aux-aidants
+74,SANTÉ,CONSULTATION PSY - LSF,,,GENEVIÈVE SANCHO,,,,https://www.halte-pouce.fr/ressources/psychologue-clinicienne-et-lsf-genevieve-sancho
+75,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,BAILLARGUES (34670) : CCAS BAILLARGUES,,,
+76,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,BESSAN (34550) : CCAS BESSAN,,,
+77,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,BEZIERS (34500) : CCAS DE BEZIERS,,,
+78,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,CAPESTANG (34310) : CCAS DE CAPESTANG,,,
+79,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,CASTELNAU LE LEZ (34170) : CCAS DE CASTELNAU-LE-LEZ,,,
+80,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,CLERMONT L HERAULT (34800) : CCAS CLERMONT L'HERAULT,,,
+81,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,FRONTIGNAN (34110) : CCAS DE FRONTIGNAN,,,
+82,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,GIGNAC (34150) : CCAS GIGNAC,,,
+83,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,LAURENS (34480) : CCAS DE LAURENS,,,
+84,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,LE POUGET (34230) : CCAS LE POUGET,,,
+85,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,LODEVE (34700) : CCAS DE LODEVE,,,
+86,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,MARAUSSAN (34370) : CCAS DE MARAUSSAN,,,
+87,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,MEZE (34140) : CCAS MEZE,,,
+88,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,MONTAGNAC (34530) : CCAS MONTAGNAC,,,
+89,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,MONTPELLIER (34000) : CCAS MONTPELLIER,,,
+90,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,MURVIEL LES BEZIERS (34490) : CCAS MURVIEL LES BEZIERS,,,
+91,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,NEZIGNAN L EVEQUE (34120) : CCAS NEZIGNAN L'EVEQUE,,,
+92,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,PAULHAN (34230) : CCAS PAULHAN,,,
+93,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,PEZENAS (34120) : CCAS PEZENAS,,,
+94,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,SAINT BAUZILLE DE LA SYLVE (34230) : CCAS ST BAUZILLE DE LA SYLVE,,,
+95,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,SAINT PARGOIRE (34230) : CCAS SAINT PARGOIRE,,,
+96,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,SAINT THIBERY (34630) : CCAS SAINT THIBERY,,,
+97,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,SERVIAN (34290) : CCAS SERVIAN,,,
+98,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,SETE (34200) : CCAS SETE,,,
+99,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,TEYRAN (34820) : CCAS TEYRAN,,,
+100,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,THEZAN LES BEZIERS (34490) : CCAS THEZAN LES BEZIERS,,,
+101,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,VENDRES (34350) : CCAS VENDRES,,,
+102,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,VILLENEUVE LES BEZIERS (34420) : CCAS DE VILLENEUVE LES BEZIERS,,,
+103,CENTRES COMMUNAUX D'ACTION SOCIALE,,,,CCAS HÉRAULT,VILLENEUVE LES MAGUELONE (34750) : CCAS VILLENEUVE LES MAGUELONNE,,,
