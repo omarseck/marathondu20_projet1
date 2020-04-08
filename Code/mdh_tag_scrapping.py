@@ -7,7 +7,8 @@ import pandas as pd
 
 
 # specify the url
-url_list_enfant = ["http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/camsp.html?no_cache=1&cHash=9c7328e9d844bb3f229b44e5f83cd4a3",
+#enfant
+url_list = ["http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/camsp.html?no_cache=1&cHash=9c7328e9d844bb3f229b44e5f83cd4a3",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/cmpp.html?no_cache=1&cHash=eb5fa0e196015164a6f0ae6929647ea0",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ime.html?no_cache=1&cHash=75d0a2e05a005941293227e69c1dd062",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/itep.html?no_cache=1&cHash=bda77cb9975c3222688e9dbd72c458c8",
@@ -17,6 +18,7 @@ url_list_enfant = ["http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/l
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-college.html?no_cache=1&cHash=917c3b8285a47ba1f9679414236f1cdf",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/ulis-lycee.html?no_cache=1&cHash=bcef58263bdedb6fdfffed3e30e248b5", ]
 
+'''
 url_list = ["http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/mas.html?no_cache=1&cHash=738fc36d7f0a887a9cd9a107052532f1",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/fam.html?no_cache=1&cHash=df567f28c547e67c8ef75315fffd1ed8",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/foyers-de-vie.html?no_cache=1&cHash=b3bea455a3f0ad14d2dc4c275c3b37df",
@@ -30,7 +32,7 @@ url_list = ["http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/savs.html?no_cache=1&cHash=38d030b85ffa543974db0bcfdc8a475d",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/samsah.html?no_cache=1&cHash=234edd22cd262be3b43421d00a100b0e",
 "http://www.mdph34.fr/annuaire-des-structures/annuaire-esms/liste-de-toutes-les-structures/gem.html?no_cache=1&cHash=8a7c1c2bd84a9cee9b284aa640fb811d"]
-
+'''
 
 i = 0
 list_tag = []
@@ -81,7 +83,7 @@ df = pd.DataFrame({
 
 print(df)
 
-fichier = df.to_csv("result_tag_mdh.csv")
+fichier = df.to_csv("result_tag_mdh_enfant.csv")
 
 
 '''
