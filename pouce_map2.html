@@ -222,88 +222,95 @@
                 <div class="heading text-center">
                     <h1 class="h2">Ressources : Pouce Map</h1>
                 </div>
-                <p class="text-center">Trouver vos ressources locales en un clic !<br>Pratique pour vous faciliter la vie au quotidien !</p>
+                <p class="text-center">Trouver vos ressources locales en un clic<br>afin de vous faciliter la vie au quotidien !</p>
             </div>
             <br>
             <br>
-            <div style="margin-left : 10%" >
-            <iframe
-            position= relative;
-            outline = none;
-            width =  1200px;
-            height =  400px;
-            src="carte2.html">
+            <div>
+                <iframe style="margin-left:10%;width:80%;height:500px;outline:none;border:none;" src="carte2.html">
           </iframe>
+            </div>
+    </div>
+    <div class="container" align="center">
+        <p><strong>Itinéraire et Transport proposée par Mappy : </strong></p>
+        <form class="form-inline text-center justify-content-center mb-4">
+            <div class="form-group mb-2">
+                <label for="depart" class="sr-only">Départ</label>
+                <input type="text" name="depart" class="form-control" id="depart" placeholder="Départ">
+            </div>
+            <div class="form-group mx-sm-3 mb-2">
+                <label for="arrivee" class="sr-only">Arrivée</label>
+                <input type="text" class="form-control" id="arrivee" name="arrivee" placeholder="Arrivée">
+            </div>
+            <script>
+                let departInput = document.getElementById("depart");
+                let arriveeInput = document.getElementById("arrivee");
+            </script>
+            <button type="button" class="btn btn-template-main mb-2" onClick="window.open('https://fr.mappy.com/itineraire#/tc/'+departInput.value+'/'+arriveeInput.value+'/tc/8');">Recherche</button>
+        </form>
+    </div>
+
+    </section>
+
+
+    <!-- FOOTER -->
+    <footer class="main-footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 offset-md-1">
+                    <h3><span class="iconannonce"><i class="fas fa-edit"></i></span> Je m'inscris à la Newsletter</h3>
+                    <p>Tous les mois Halte Pouce vous informe dans sa Newsletter des nouveautés, événements, séjours, dossiers thématiques et autres informations. N'hésitez pas à vous inscrire !</p>
+                    <!-- Begin Mailchimp Signup Form -->
+                    <div id="mc_embed_signup">
+                        <form action="https://halte-pouce.us18.list-manage.com/subscribe/post?u=2c4d9af1d6ed38277ab9158be&amp;id=31c2e0a693" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div id="mc_embed_signup_scroll">
+                                <p class="gras">Indiquer votre adresse email :</p>
+                                <div class="input-group">
+                                    <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required="required">
+                                    <div class="input-group-append">
+                                        <button type="submit" class="btn btn-secondary" name="subscribe" id="mc-embedded-subscribe"><i class="fa fa-send"></i></button>
+                                    </div>
+                                </div>
+                                <div id="mce-responses" class="clear">
+                                    <div class="response" id="mce-error-response" style="display:none"></div>
+                                    <div class="response" id="mce-success-response" style="display:none"></div>
+                                </div>
+                                <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                                <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2c4d9af1d6ed38277ab9158be_31c2e0a693" tabindex="-1" value=""></div>
+                            </div>
+                        </form>
+                    </div>
+                    <!--End mc_embed_signup-->
+                    <hr class="d-block d-lg-none">
+                </div>
+
+                <div class="col-lg-5 offset-md-1">
+                    <h3><span class="iconannonce"><i class="fas fa-map-marker-alt"></i>&nbsp;</span>Halte Pouce / Coordonnées</h3>
+                    <p>Mini Parc Montpellier 2 - Bât 12
+                        <br />939 rue de la Croix Verte <br />34090 MONTPELLIER
+                    </p>
+                    <p>BP 4153 - 34092 MONTPELLIER Cedex 5
+                        <br /><i class="commentaire">(A utiliser pour toute correspondance papier)</i></p>
+                    <p><i class="fab fa-facebook-square fa-2x"></i> <a href="https://www.facebook.com/haltepouce.fr" target="_blank" rel="noopener">facebook.com/haltepouce.fr</a></p>
+                    <a href="https://www.halte-pouce.fr/contact" class="btn btn-template-main">Nous contacter</a>
+                </div>
+
+            </div>
         </div>
-            </div>
-            <div class="container" align="center">
-                <p><strong>Itinéraire et Transport proposée par Mappy : </strong></p>
-                <p>Départ <input type="text" name="depart"> &nbsp; &nbsp; Arrivée <input type="text" name="arrivee"> &nbsp; &nbsp;
-                    <input class="btn btn-template-main" type="button" value="Recherche" onClick="window.open('https://fr.mappy.com/itineraire#/tc/'+document.iti.depart.value+'/'+document.iti.arrivee.value+'/tc/8');">
-                </p>
-            </div>
-
-        </section>
-
-
-        <!-- FOOTER -->
-        <footer class="main-footer">
+        <div class="copyrights">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-5 offset-md-1">
-                        <h3><span class="iconannonce"><i class="fas fa-edit"></i></span> Je m'inscris à la Newsletter</h3>
-                        <p>Tous les mois Halte Pouce vous informe dans sa Newsletter des nouveautés, événements, séjours, dossiers thématiques et autres informations. N'hésitez pas à vous inscrire !</p>
-                        <!-- Begin Mailchimp Signup Form -->
-                        <div id="mc_embed_signup">
-                            <form action="https://halte-pouce.us18.list-manage.com/subscribe/post?u=2c4d9af1d6ed38277ab9158be&amp;id=31c2e0a693" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                                <div id="mc_embed_signup_scroll">
-                                    <p class="gras">Indiquer votre adresse email :</p>
-                                    <div class="input-group">
-                                        <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" required="required">
-                                        <div class="input-group-append">
-                                            <button type="submit" class="btn btn-secondary" name="subscribe" id="mc-embedded-subscribe"><i class="fa fa-send"></i></button>
-                                        </div>
-                                    </div>
-                                    <div id="mce-responses" class="clear">
-                                        <div class="response" id="mce-error-response" style="display:none"></div>
-                                        <div class="response" id="mce-success-response" style="display:none"></div>
-                                    </div>
-                                    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-                                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_2c4d9af1d6ed38277ab9158be_31c2e0a693" tabindex="-1" value=""></div>
-                                </div>
-                            </form>
-                        </div>
-                        <!--End mc_embed_signup-->
-                        <hr class="d-block d-lg-none">
-                    </div>
+                    <div class="col-lg-12 ">
+                        <p class="text-center">Tous droits réservés Halte Pouce&nbsp;&copy;&nbsp;2018&nbsp;&bull;&nbsp;<a href="https://www.halte-pouce.fr/mentions-legales">Mentions légales</a>&nbsp;&bull;&nbsp;<a href="https://www.halte-pouce.fr/connexion" class="login-btn">Connexion</a></p>
 
-                    <div class="col-lg-5 offset-md-1">
-                        <h3><span class="iconannonce"><i class="fas fa-map-marker-alt"></i>&nbsp;</span>Halte Pouce / Coordonnées</h3>
-                        <p>Mini Parc Montpellier 2 - Bât 12
-                            <br />939 rue de la Croix Verte <br />34090 MONTPELLIER
-                        </p>
-                        <p>BP 4153 - 34092 MONTPELLIER Cedex 5
-                            <br /><i class="commentaire">(A utiliser pour toute correspondance papier)</i></p>
-                        <p><i class="fab fa-facebook-square fa-2x"></i> <a href="https://www.facebook.com/haltepouce.fr" target="_blank" rel="noopener">facebook.com/haltepouce.fr</a></p>
-                        <a href="https://www.halte-pouce.fr/contact" class="btn btn-template-main">Nous contacter</a>
+
+                        <!-- Please do not remove the backlink to us unless you support further theme's development at https://bootstrapious.com/donate. It is part of the license conditions. Thank you for understanding :) <p>Template design by <a href="https://bootstrapious.com/free-templates">Bootstrapious Templates </a></p>-->
                     </div>
 
                 </div>
             </div>
-            <div class="copyrights">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-12 ">
-                            <p class="text-center">Tous droits réservés Halte Pouce&nbsp;&copy;&nbsp;2018&nbsp;&bull;&nbsp;<a href="https://www.halte-pouce.fr/mentions-legales">Mentions légales</a>&nbsp;&bull;&nbsp;<a href="https://www.halte-pouce.fr/connexion" class="login-btn">Connexion</a></p>
-
-
-                            <!-- Please do not remove the backlink to us unless you support further theme's development at https://bootstrapious.com/donate. It is part of the license conditions. Thank you for understanding :) <p>Template design by <a href="https://bootstrapious.com/free-templates">Bootstrapious Templates </a></p>-->
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </footer>
+        </div>
+    </footer>
     </div>
 
     <a href="#" class="scrollup" aria-hidden="true">
