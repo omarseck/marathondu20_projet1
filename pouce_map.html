@@ -20,6 +20,8 @@
 		
 		<style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
 		<style>#map {position:absolute;top:10;bottom:10;right:10;left:10;}</style>
+		<style>.leaflet-control-layers-expanded {color:#black; font-family: 'M PLUS Rounded 1c',sans-serif; font-size : 9px;}</style>
+		<style>.leaflet-control-layers-base { background: #ffe2eb; color:#e83e8c; text-align : center; font-size : 12px;  }</style>
 
 		
 		<style>#map_43adeeff65af4158968570d13e09a9c0 {
@@ -31990,7 +31992,7 @@ Lien à mettre
         
     
             var layer_control_7ebe2779a4fe4f899422343ea388bc78 = {
-                base_layers : { "openstreetmap" : tile_layer_7bec26eb67314bd29178dbccb906ef4e, },
+                base_layers : { "SECTEURS" : tile_layer_7bec26eb67314bd29178dbccb906ef4e, },
                 overlays : { "SANITAIRE" : feature_group_3616af458dd54a63b96deff1ae1cbbad,"MEDICO-SOCIAL" : feature_group_d6ff5c63c8f74e8396cada972922981f,"SCOLAIRE" : feature_group_6ddc63ccf85f45bb98892beba8709c45,"VIE & INSERTION PROFESSIONNELLE ADAPTÉE" : feature_group_b206c013a0364b598edf3fcf21840747,"SOCIAL" : feature_group_fc4f491068a948459418f533cfb020fc,"ASSOCIATIF ADAPTÉ" : feature_group_438345bbedb44d4e8c34c5c2690783f0,"INSERTION PROFESSIONNELLE" : feature_group_548398dfc674418fa397c1d8373bf3bb,"LOISIR MILIEU ORDINAIRE" : feature_group_fdce7a47ecc84fcda82485a247685a0b, }
                 };
             L.control.layers(
@@ -32000,6 +32002,8 @@ Lien à mettre
                  collapsed: 0,
                  autoZIndex: true
                 }).addTo(map_43adeeff65af4158968570d13e09a9c0);
+			
+			
             
                 feature_group_3616af458dd54a63b96deff1ae1cbbad.remove();
                 feature_group_d6ff5c63c8f74e8396cada972922981f.remove();
