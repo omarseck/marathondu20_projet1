@@ -214,22 +214,19 @@
 
         <br>
 
-
-
-
-        <div class="container">
+        <div class="container" align = "center">
             <form name="iti" action="#">
-                Départ:<input type="text" name="depart">
-                <br>
-                <br> Arrivée:
-                <input type="text" name="arrivee">
-                <br>
-                <br>
-                <input class="btn btn-template-main" type="button" value="Rechercher l'itinéraire" onClick="window.open('https://fr.mappy.com/itineraire#/tc/'+document.iti.depart.value+'/'+document.iti.arrivee.value+'/tc/8');">
+				<p><strong>Itinéraire et Transport proposée par Mappy : </strong> &nbsp; &nbsp; 
+                Départ <input type="text" name="depart"> &nbsp; &nbsp; 
+				Arrivée <input type="text" name="arrivee"> &nbsp; &nbsp; 
+                <input class="btn btn-template-main" type="button" value="Recherche" onClick="window.open('https://fr.mappy.com/itineraire#/tc/'+document.iti.depart.value+'/'+document.iti.arrivee.value+'/tc/8');">
+				</p>
                 <form>
         </div>
 
-
+        <br>
+        <br>
+		
         <!-- FOOTER -->
         <footer class="main-footer">
             <div class="container">
@@ -302,7 +299,7 @@
 	</i>
                             <a href="https://www.facebook.com/haltepouce.fr" target="_blank" rel="noopener">			facebook.com/haltepouce.fr
 	</a>
-                            < /p>
+                            </p>
                                 <a href="https://www.halte-pouce.fr/contact" class="btn btn-template-main">
 	Nous contacter
 </a>
@@ -29711,7 +29708,7 @@
 
     var layer_control_899987e95df54f4bbeb5c76af539ddb8 = {
         base_layers: {
-            "openstreetmap": tile_layer_4d9547587c1c433189cbfd33ad384d5b,
+            "SECTEURS": tile_layer_4d9547587c1c433189cbfd33ad384d5b,
         },
         overlays: {
             "Sanitaire": feature_group_524ee84eccde4cc9a105c2f8bc2e36cb,
