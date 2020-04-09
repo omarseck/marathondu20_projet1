@@ -1,3 +1,3 @@
 # marathondu20_projet1
 
-https://omarseck.github.io/marathonduweb20_HaltePouce/pouce_map2.html
+https://omarseck.github.io/marathonduweb20_HaltePouce/pouce_map.html
